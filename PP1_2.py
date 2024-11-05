@@ -3,7 +3,7 @@
 #Write Assignment code here
 
 def q1():
-name = alex
+name = Alex
 print (name)
 
 def q2():
